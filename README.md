@@ -1,10 +1,10 @@
-# 🌡️ Temperature Converter (Java)
+Temperature Converter (Java)
 
 A simple Java console application that converts temperature between Celsius, Fahrenheit, and Kelvin. This project is ideal for beginners to understand user input handling, conditionals, and basic arithmetic operations in Java.
 
 ---
 
-## 🚀 Features
+Features
 
 - ✅ Convert from **Celsius** to Fahrenheit and Kelvin
 - ✅ Convert from **Fahrenheit** to Celsius and Kelvin
@@ -14,7 +14,7 @@ A simple Java console application that converts temperature between Celsius, Fah
 
 ---
 
-## 🧠 Concepts Used
+ Concepts Used
 
 - Java basic syntax
 - `Scanner` class for input
@@ -24,19 +24,19 @@ A simple Java console application that converts temperature between Celsius, Fah
 
 ---
 
-## 💻 How to Run the Project
+ How to Run the Project
 
-### 🔧 Requirements
+ Requirements
 
 - Java JDK (version 8 or above)
 - Any Java IDE (e.g., IntelliJ, Eclipse, VS Code) or terminal
 
-### 🏃 Steps to Run
+ Steps to Run
 
 1. Clone or download the project
 2. Open the `.java` file in your IDE
 3. Compile and run:
 
-```bash
+
 javac TemperatureConverter.java
 java TemperatureConverter
